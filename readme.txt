@@ -11,7 +11,7 @@ Donate link: http://www.engagewp.com/donate/
 Bypass login forms and automatically sign into any account.
 
 == Description ==
-This plugin was created for quick login when working locally. In the settings, you add the username and password for any account (i.e. "admin" and "admin"). By visiting /wp-admin/?wp_auto_login=true, you will be automatically logged into the account owning the credentials you set.
+This plugin was created for quick login when working locally. In the settings, you add the username and password for any account (i.e. "admin" and "admin"). By visiting <code>http://mysite.com/wp-admin/?wp_auto_login=true</code>, you will be automatically logged into the account owning the credentials you defined.
 
 == Installation ==
 
